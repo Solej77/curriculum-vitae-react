@@ -14,7 +14,7 @@ const App = () => {
     <Main>
       <Sidebar>
         <About />
-        <Social />
+        {/* <Social /> */}
       </Sidebar>
       <Info>
         <Education />
